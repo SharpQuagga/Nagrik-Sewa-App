@@ -15,3 +15,16 @@ choose the right candidate for themselves.
 
 ## Clicks
 
+![Login_page](https://user-images.githubusercontent.com/39939752/93053429-68f21400-f685-11ea-9739-050b4cf36076.jpeg)
+
+![Login_2](https://user-images.githubusercontent.com/39939752/93053426-68f21400-f685-11ea-8462-1f8b493bdcf5.jpeg)
+
+![Register](https://user-images.githubusercontent.com/39939752/93053424-68597d80-f685-11ea-869d-0cd37ee3818e.jpeg)
+
+![Map_View](https://user-images.githubusercontent.com/39939752/93053430-698aaa80-f685-11ea-823f-48428fbcfe98.jpeg)
+
+![New_complaint](https://user-images.githubusercontent.com/39939752/93053421-67c0e700-f685-11ea-9d0e-e879853b1e3c.jpeg)
+
+![Result_1](https://user-images.githubusercontent.com/39939752/93053431-6a234100-f685-11ea-9a07-b0c821b9ada1.jpeg)
+
+![Result_2](https://user-images.githubusercontent.com/39939752/93053418-65f72380-f685-11ea-9f56-abaff984d7d9.jpeg)
